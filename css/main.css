@@ -1,0 +1,23 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+padding: 10px;
+}
+  
+th , td{
+    border: 1px solid;    
+}
+.box{
+    padding: 20px;
+}
+.long{
+    width: 100px;
+    height: 20px;
+}
+.total{
+    padding: 5px 127px;
+}
+
+.total__number{
+   padding: 5px 41px; 
+}
